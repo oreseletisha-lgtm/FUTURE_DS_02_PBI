@@ -8,7 +8,7 @@ Analyze customer data to identify churn patterns, key retention drivers, and cus
 - DAX measures for custom calculations
 
 ## Dashboard Preview
-![Dashboard](FUTURE_DS_02_PowerBI_Dashboard.png)
+![Dashboard](Dashboard_ChurnAnalysis.png)
 
 ## Key Insights
 
